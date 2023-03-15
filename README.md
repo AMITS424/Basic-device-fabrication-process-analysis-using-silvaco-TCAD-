@@ -1,5 +1,5 @@
 # Basic-device-fabrication-process-analysis-using-silvaco-TCAD-
-Technology CAD (Technology Computer Aided Design) is a branch of electronic design automation that models semiconductor fabrication and semiconductors device operation
+Technology CAD (Technology Computer Aided Design) is a branch of electronic design automation that models semiconductor fabrication and semiconductors device operation. This repository contains pdf files describing analysis of various device fabrication steps such as oxidation, diffusion and ion implantation with diferent parameters like temp, dose etc.
 
 ## TCAD:
 Technology CAD (Technology Computer Aided Design) is a branch of electronic design automation that models semiconductor fabrication and semiconductors device operation.
